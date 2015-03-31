@@ -74,3 +74,4 @@ define tomcat::config::server::alias (
     changes => $augeaschanges,
   }
 }
+
